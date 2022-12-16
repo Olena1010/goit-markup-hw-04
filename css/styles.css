@@ -468,10 +468,15 @@ flex-wrap: wrap;
 .footer-list {
     color: #E7E9FC;
     width: 264px;
-    margin-bottom: 16px;
-    
+    margin-top: 16px;
+   
 }
+.footer-list-footer {
+  color: #E7E9FC;
+  margin-bottom: 16px;
+} 
 .social-footer {
+  width: 208px;
   margin-left: 120px;
 }
 .social-footer-list {
