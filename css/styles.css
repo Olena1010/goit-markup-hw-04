@@ -300,10 +300,10 @@ margin-left: 24px;
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  border-color: var(--accent-color);
+  background-color: var(--accent-color);
  }
  .social-list-icon {
-  fill: #2E2F42;
+  fill: #F4F4FD;
  }
  
 
@@ -337,8 +337,8 @@ margin-left: 24px;
   letter-spacing: 0.04em;
   cursor: pointer;
   min-width: 170px;
-  padding: 16px 32px;
-  box-shadow: none; 
+  padding: 16px 32px; 
+  border: transparent;
 }
 .button.primary:hover,
 .button.primary:focus {
@@ -487,7 +487,7 @@ flex-wrap: wrap;
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  border-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.1);
  }
  .social-footer-list-link:hover,
  .social-footer-list-link:focus {
