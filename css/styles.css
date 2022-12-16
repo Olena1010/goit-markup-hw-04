@@ -491,7 +491,7 @@ flex-wrap: wrap;
  }
  .social-footer-list-link:hover,
  .social-footer-list-link:focus {
-  color: #31D0AA;
+  background-color: #31D0AA;
  }
  .social-footer-list-icon {
   fill: #E7E9FC;
