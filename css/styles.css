@@ -500,4 +500,6 @@ flex-wrap: wrap;
  }
  .social-footer-list-icon {
   fill: #E7E9FC;
+  width: 24px;
+  height: 24px;
  }
